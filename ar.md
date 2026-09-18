@@ -1,31 +1,4 @@
-<a href="https://github.com/Dhahd">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-en-off-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-en-off-light.svg">
-    <img alt="EN" src="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-en-off-light.svg">
-  </picture>
-</a>
-<a href="https://github.com/Dhahd/dhahd/blob/main/ar.md">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-ar-on-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-ar-on-light.svg">
-    <img alt="AR" src="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-ar-on-light.svg">
-  </picture>
-</a>
-<a href="https://github.com/Dhahd/dhahd/blob/main/ar-light.md">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-light-off-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-light-off-light.svg">
-    <img alt="Light" src="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-light-off-light.svg">
-  </picture>
-</a>
-<a href="https://github.com/Dhahd/dhahd/blob/main/ar-dark.md">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-dark-off-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-dark-off-light.svg">
-    <img alt="Dark" src="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-dark-off-light.svg">
-  </picture>
-</a>
+<a href="https://github.com/Dhahd/dhahd/blob/main/ar-dark.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-dark-off-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-dark-off-light.svg"><img align="left" alt="Dark" src="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-dark-off-light.svg"></picture></a><a href="https://github.com/Dhahd/dhahd/blob/main/ar-light.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-light-off-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-light-off-light.svg"><img align="left" alt="Light" src="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-light-off-light.svg"></picture></a><a href="https://github.com/Dhahd/dhahd/blob/main/ar.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-ar-on-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-ar-on-light.svg"><img align="left" alt="AR" src="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-ar-on-light.svg"></picture></a><a href="https://github.com/Dhahd"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-en-off-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-en-off-light.svg"><img align="left" alt="EN" src="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/btn-en-off-light.svg"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/place-ar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/place-ar-light.svg"><img align="right" alt="بغداد، العراق" src="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/place-ar-light.svg"></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhahd/dhahd/main/assets/hero-ar-dark.svg">
